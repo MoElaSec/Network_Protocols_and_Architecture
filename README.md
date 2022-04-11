@@ -1,4 +1,7 @@
 # Network_Protocols_and_Architecture
+
+[![Join the chat at https://gitter.im/Network_Protocols_and_Architecture/community](https://badges.gitter.im/Network_Protocols_and_Architecture/community.svg)](https://gitter.im/Network_Protocols_and_Architecture/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A small part of my journey through a University course (Net. Protocols &amp; Arch.) - great as an Intro to fundamentals of Networking 
 
 
